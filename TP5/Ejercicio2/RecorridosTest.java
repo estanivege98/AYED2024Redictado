@@ -1,11 +1,10 @@
 package TP5.Ejercicio2;
 import java.util.*;
 import TP5.ejercicio1.*;
-import ejercicio1.adjList.AdjListGraph;
+import TP5.ejercicio1.adjList.AdjListGraph;
 
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.*;
 
 public class RecorridosTest {
 

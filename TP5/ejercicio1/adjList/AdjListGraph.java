@@ -1,4 +1,4 @@
-package ejercicio1.adjList;
+package TP5.ejercicio1.adjList;
 
 import java.util.ArrayList;
 import java.util.List;
