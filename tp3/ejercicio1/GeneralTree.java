@@ -209,8 +209,8 @@ public class GeneralTree<T>{
 	}
 
 	/* EJERCICIO 5 */
-	/* Se dice que un nodo n es ancestro de un nodo m si existe un camino desde n a m. Implemente un
- 	método en la clase GeneralTree con la siguiente firma: public boolean esAncestro(T a, T b): devuelve true si el valor “a” es ancestro del valor “b”. */
+	/* Se dice que un nodo n es ancestro de un nodo m si existe un camino desde n a m. Implemente un */
+ 	/* método en la clase GeneralTree con la siguiente firma: public boolean esAncestro(T a, T b): devuelve true si el valor “a” es ancestro del valor “b”. */
 
 	public boolean esAncestro(T a, T b) {
 		if (this.isEmpty())
